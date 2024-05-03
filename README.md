@@ -1,6 +1,5 @@
 # PHP Shortcode
 
-Overview:
 This functionality provide the powerful way to process shortcodes. Means you can make a section dynamic using shortcode within content.
 
 It also allow users to render specific shortcode too.
